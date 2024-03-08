@@ -1,0 +1,13 @@
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\bin\Debug\RegistroPersonas.exe.config
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\bin\Debug\RegistroPersonas.exe
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\bin\Debug\RegistroPersonas.pdb
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\bin\Debug\RegistroPersonas.xml
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.AssemblyReference.cache
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\obj\Debug\RegistroPersonas.Resources.resources
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.GenerateResource.cache
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\obj\Debug\RegistroPersonas.vbproj.CoreCompileInputs.cache
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\obj\Debug\RegistroPersonas.exe
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\obj\Debug\RegistroPersonas.xml
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\obj\Debug\RegistroPersonas.pdb
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\obj\Debug\RegistroPersonas.FRM_INICIO.resources
+C:\Users\fabia\OneDrive\Desktop\Programas\LP\MyProjects\RegistroPersonas\obj\Debug\RegistroPersonas.FRM_PERSONA.resources
